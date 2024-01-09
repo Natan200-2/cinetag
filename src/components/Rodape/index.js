@@ -1,11 +1,9 @@
 import styles from './Rodape.module.css';
 
-const Rodape = ({children}) => {
+const Rodape = () => {
     return(
         <footer className={styles.rodape}>
-            <h3>
-                {children}
-            </h3>
+            <h2> Desenvolvido com Alura.</h2>
         </footer>
     )
 }

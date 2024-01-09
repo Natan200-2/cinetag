@@ -1,14 +1,14 @@
 import Cabecalho from 'components/Cabecalho'
 import './Inicio.module.css'
 import Rodape from 'components/Rodape';
+import Banner from 'components/Banner';
 
 const Inicio = () => {
     return(
         <>
             <Cabecalho/>
-            <Rodape>
-                Desenvolvido com Alura.
-            </Rodape>
+            <Banner image='Home'/>
+            <Rodape />
         </>
     )
 }
