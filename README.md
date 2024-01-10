@@ -1,10 +1,10 @@
 # Introdução
 
-Este é um site de vídeos e filmes
+Este é um site de vídeos
 
-Com ele é possível favoritar seus filmes e visualizá-los separadamente em outra aba.
+Com ele é possível favoritar seus filmes, assistí-los e visualizá-los separadamente em outra aba.
 
-O site foi criado em conjunto com o curso da Alura "React: praticando React com Js"
+O site foi criado em conjunto com o curso da Alura "React: praticando React com Js", a api consumida foi criada de forma fake a partir do MyJSON Server.
 
 ## Requisitos
 Para instalação e utilização do projeto em sua máquina é necessário ter instalado NodeJs e, a partir do Node, instalar create react app
