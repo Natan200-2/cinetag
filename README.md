@@ -16,10 +16,10 @@ Use o github para clonar o projeto:
 ```bash
 git clone
 ```
-Com isso, use o comando
+Acesse a pasta do repositório e use o comando
 
 ```bash
-npm install create-react-app
+npm install
 ```
 
 Por fim, basta executá-lo com
